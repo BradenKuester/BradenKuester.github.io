@@ -1,0 +1,21 @@
+p{
+    text-align:center;
+    color: black;
+    vertical-align: central;
+
+}
+
+h2{
+    
+    text-align:center;
+    color:black;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+body{
+    background-color: lightgray;
+}
